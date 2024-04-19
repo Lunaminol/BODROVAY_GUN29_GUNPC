@@ -1,0 +1,14 @@
+D:\studdi\C# Projects\HW2\ArrayHW\bin\Debug\net8.0\ArrayHW.exe
+D:\studdi\C# Projects\HW2\ArrayHW\bin\Debug\net8.0\ArrayHW.deps.json
+D:\studdi\C# Projects\HW2\ArrayHW\bin\Debug\net8.0\ArrayHW.runtimeconfig.json
+D:\studdi\C# Projects\HW2\ArrayHW\bin\Debug\net8.0\ArrayHW.dll
+D:\studdi\C# Projects\HW2\ArrayHW\bin\Debug\net8.0\ArrayHW.pdb
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.AssemblyInfoInputs.cache
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.AssemblyInfo.cs
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.csproj.CoreCompileInputs.cache
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.dll
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\refint\ArrayHW.dll
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.pdb
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ArrayHW.genruntimeconfig.cache
+D:\studdi\C# Projects\HW2\ArrayHW\obj\Debug\net8.0\ref\ArrayHW.dll
