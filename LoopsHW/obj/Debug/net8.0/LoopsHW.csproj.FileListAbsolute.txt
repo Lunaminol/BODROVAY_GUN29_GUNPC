@@ -1,0 +1,14 @@
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.AssemblyInfoInputs.cache
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.AssemblyInfo.cs
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.csproj.CoreCompileInputs.cache
+D:\studdi\C# Projects\HW3\LoopsHW\bin\Debug\net8.0\LoopsHW.exe
+D:\studdi\C# Projects\HW3\LoopsHW\bin\Debug\net8.0\LoopsHW.deps.json
+D:\studdi\C# Projects\HW3\LoopsHW\bin\Debug\net8.0\LoopsHW.runtimeconfig.json
+D:\studdi\C# Projects\HW3\LoopsHW\bin\Debug\net8.0\LoopsHW.dll
+D:\studdi\C# Projects\HW3\LoopsHW\bin\Debug\net8.0\LoopsHW.pdb
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.dll
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\refint\LoopsHW.dll
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.pdb
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\LoopsHW.genruntimeconfig.cache
+D:\studdi\C# Projects\HW3\LoopsHW\obj\Debug\net8.0\ref\LoopsHW.dll
