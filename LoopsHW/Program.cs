@@ -2,7 +2,7 @@
 var a = 0;
 var b = 1;
 var c = 0;
-Console.Write("{0} {1}", a,"\n", b);
+Console.Write("{0} {1}", a, b);
 
 for (int index = 0; index <= 7; index++)
 {
