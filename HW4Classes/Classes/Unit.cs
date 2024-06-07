@@ -8,127 +8,72 @@ using System.Xml.Linq;
 
 namespace Classes
 {
-    class Unit
+    public class Unit
     {
-        public string name;
-        public Unit() { name = "Unknown Unit"; }
+        public string Name;
+        private float _health;
+        private float _baseDamage = 5f;
+        private float _damage;
+        private float _armorValue;
+        private Armor.Helm _helm = new("");
+        private Armor.Boots _boots = new("");
+        private Armor.Shell _shell = new("");
+        private Weapon _weapon = new("");
 
-        public Unit(string Name, float aHealth)
-        { 
-            this.name = Name;
-            Health = aHealth;
-        }
-
-        public float health;
         public float Health
         {
             get
             {
-                return health;
+                return _health;
             }
-            set
+            private set
             {
-                if (value <= 10f)
-                {
-                    health = 10f;
-                    return;
-                }
-                else if (value >= 100f)
-                {
-                    health = 100f;
-                    return;
-                }
-                health = value;
+                _health = value;
             }
         }
 
-        public float realHealth;
-        public float ReturnHealth()
+        public float Damage => _damage = _baseDamage + _weapon.GetDamage;
+
+        public float ArmorValue => _armorValue = _helm.Armor + _boots.Armor + _shell.Armor;
+
+        public float RealHealth => Health * (1f + _armorValue);
+
+        public Unit() : this("Unknown Unit", 10)
+        { }
+
+        public Unit (string name, float health)
         {
-            realHealth = health * (1f + ArmorValue);
-            return realHealth;
+            this.Name = name;
+            _health = health;
+        }
+
+        public void EquipHelm(Armor.Helm helm)
+        {
+            _helm = helm;
+        }
+
+        public void EquipBoots(Armor.Boots boots)
+        {
+            _boots = boots;
+        }
+
+        public void EquipShell(Armor.Shell shell)
+        {
+            _shell = shell;
+        }
+
+        public void EquipWeapon(Weapon weapon)
+        {
+            _weapon = weapon;
         }
 
         public bool SetDamage(float value)
         {
-            health = Health - value * ArmorValue;
-            if (health <= 0)
-            {
-                return true;
-            }
-            return false;
-        }
-
-        Armor.Helm Helm = new Armor.Helm();
-        public static void EquipHelm(Armor.Helm Helm)
-        {
-            if (Helm != null) 
-            {
-                new Armor.Helm();
-
-            }
-        }
-
-        Armor.Boots Boots = new Armor.Boots();  
-        public static void EquipBoots(Armor.Boots Boots)
-        {
-            if (Boots != null)
-            {
-                new Armor.Boots();
-            }
-        }
-
-        Armor.Shell Shell = new Armor.Shell();
-        public static void EquipShell(Armor.Shell Shell)
-        {
-            if (Shell != null)
-            {
-                new Armor.Shell();
-            } 
-        }
-
-        Weapon oldWeapon = new Weapon("");
-        
-        public static void EquipWeapon(Weapon oldWeapon)
-        {
-            if (oldWeapon != null)  
-            {
-                Weapon newWeapon = new("", aMinDamage: 0, aMaxDamage: 0);
-                oldWeapon = newWeapon;
-            }
-        }
-
-        private float _baseDamage = 5;
-        public float damage;
-        public float Damage
-        {
-            get
-            {
-                return damage;
-            }
-            set
-            {
-                if (oldWeapon.weaponDamage > 0)
-                {
-                    value = _baseDamage + oldWeapon.weaponDamage;
-                }
-                else
-                {
-                    value = _baseDamage;
-                }
-                damage = value;
-
-            }
-        }
-
-        public float ArmorValue;
-        public float Armor()
-        {
-            ArmorValue = Boots.armor + Shell.armor + Helm.armor;
-            return ArmorValue;
+            Health = Math.Clamp(Health - value * ArmorValue, 0, Health);
+            return Health <= 0;
         }
     }
-    }
+}
 
 
 

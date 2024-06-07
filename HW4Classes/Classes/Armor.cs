@@ -11,94 +11,95 @@ namespace Classes
     {
         public class Helm
         {
-            private string _name = "Helm";
-            public string Name { get { return _name; } }
-            public float armor;
+            private float _armor;
 
             public  float Armor
             {
                 get
                 {
-                    return armor;
+                    return _armor;
                 }
                 set
                 {
                     if (value < 0f)
                     {
-                        armor = 0f;
+                        _armor = 0f;
                         Console.WriteLine("Некорректно заданное свойство");
                         return;
                     }
                     else if (value > 1f)
                     {
-                        armor = 1f;
+                        _armor = 1f;
                         Console.WriteLine("Некорректно заданное свойство");
                         return;
                     }
-                    armor = value;
+                    _armor = value;
                 }
             }
+
+            public Helm(string name) { name = "Helm"; }
         }
 
         public class Shell
         {
-            private string _name = "Shell";
-            public string Name { get { return _name; } }
-            public float armor;
+            private float _armor;
+
             public float Armor
             {
                 get
                 {
-                    return armor;
+                    return _armor;
                 }
                 set
                 {
                     if (value < 0f)
                     {
-                        armor = 0f;
+                        _armor = 0f;
                         Console.WriteLine("Некорректно заданное свойство");
                         return;
                     }
                     else if (value > 1f)
                     {
-                        armor = 1f;
+                        _armor = 1f;
                         Console.WriteLine("Некорректно заданное свойство");
                         return;
                     }
-                    armor = value;
+                    _armor = value;
                 }
+            }
 
-        }
+            public Shell(string name) { name = "Shell"; }
         }
 
         public class Boots
         {
-            private string _name = "Boots";
-            public string Name { get { return _name; } }
-            public float armor;
+            private float _armor;
+
             public float Armor
             {
                 get
                 {
-                    return armor;
+                    return _armor;
                 }
                 set
                 {
                     if (value < 0f)
                     {
-                        armor = 0f;
+                        _armor = 0f;
                         Console.WriteLine("Некорректно заданное свойство");
                         return;
                     }
                     else if (value > 1f)
                     {
-                        armor = 1f;
+                        _armor = 1f;
                         Console.WriteLine("Некорректно заданное свойство");
                         return;
                     }
-                    armor = value;
+                    _armor = value;
                 }
             }
+
+            public Boots(string name) { name = "Boots"; }
         }
     }
 }
