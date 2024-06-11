@@ -1,0 +1,14 @@
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.AssemblyInfoInputs.cache
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.AssemblyInfo.cs
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.csproj.CoreCompileInputs.cache
+D:\studdi\C# Projects\StringsHW\bin\Debug\net8.0\StringsHW.exe
+D:\studdi\C# Projects\StringsHW\bin\Debug\net8.0\StringsHW.deps.json
+D:\studdi\C# Projects\StringsHW\bin\Debug\net8.0\StringsHW.runtimeconfig.json
+D:\studdi\C# Projects\StringsHW\bin\Debug\net8.0\StringsHW.dll
+D:\studdi\C# Projects\StringsHW\bin\Debug\net8.0\StringsHW.pdb
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.dll
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\refint\StringsHW.dll
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.pdb
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\StringsHW.genruntimeconfig.cache
+D:\studdi\C# Projects\StringsHW\obj\Debug\net8.0\ref\StringsHW.dll
