@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\ibuildersupporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:ibuildersupporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\cardvariants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:cardvariants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|d:\\studdi\\c# projects\\c# final task\\code\\gameofdice\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C0308E-40C5-4E34-9F56-8C94FC1510B8}|CasinoGame.csproj|solutionrelative:dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGame.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\IGame.cs",
+              "RelativeDocumentMoniker": "IGame.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\IGame.cs",
+              "RelativeToolTip": "IGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:54:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Casino.cs",
+              "RelativeDocumentMoniker": "Casino.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Casino.cs",
+              "RelativeToolTip": "Casino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:40:31.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlackJack.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\BlackJack.cs",
+              "RelativeDocumentMoniker": "BlackJack.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\BlackJack.cs",
+              "RelativeToolTip": "BlackJack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:27:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:22:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardVariants.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\CardVariants.cs",
+              "RelativeDocumentMoniker": "CardVariants.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\CardVariants.cs",
+              "RelativeToolTip": "CardVariants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:20:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiceGame.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\DiceGame.cs",
+              "RelativeDocumentMoniker": "DiceGame.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\DiceGame.cs",
+              "RelativeToolTip": "DiceGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:30:45.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "CasinoGameBase.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\CasinoGameBase.cs",
+              "RelativeToolTip": "CasinoGameBase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:17:31.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WrongDiceNumberException.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\WrongDiceNumberException.cs",
+              "RelativeDocumentMoniker": "WrongDiceNumberException.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\WrongDiceNumberException.cs",
+              "RelativeToolTip": "WrongDiceNumberException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:23:27.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:58:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBuilderSupporter.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\IBuilderSupporter.cs",
+              "RelativeDocumentMoniker": "IBuilderSupporter.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\IBuilderSupporter.cs",
+              "RelativeToolTip": "IBuilderSupporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:56:57.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Dice.cs",
+              "RelativeDocumentMoniker": "Dice.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Dice.cs",
+              "RelativeToolTip": "Dice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:51:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:04:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Builder.cs",
+              "RelativeDocumentMoniker": "Builder.cs",
+              "ToolTip": "D:\\studdi\\C# Projects\\C# Final Task\\Code\\GameOfDice\\Builder.cs",
+              "RelativeToolTip": "Builder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:16:09.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
