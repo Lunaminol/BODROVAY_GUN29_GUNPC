@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
             Vector3 clickWorldPosition = _mainCamera.ScreenToWorldPoint(Input.mousePosition);
             Vector3Int clickCellPosition = _map.WorldToCell(clickWorldPosition);
 
-            _player.transform.position = clickCellPosition;
+            _player.transform.position = new Vector3(clickCellPosition.x, clickCellPosition.y, _player.transform.position.z);
         }
     }
 }
